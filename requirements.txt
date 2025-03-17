@@ -14,3 +14,6 @@ streamlit==1.33.0
 sentencepiece==0.2.0
 asyncio==3.4.3
 transformers==4.47.1
+torch 
+torchvision 
+torchaudio
